@@ -7,6 +7,9 @@
 [![License](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![GitHub Stars](https://img.shields.io/github/stars/mailbus/awesome-ai-personas?style=social)](https://github.com/mailbus/awesome-ai-personas)
+[![GitHub Issues](https://img.shields.io/github/issues/mailbus/awesome-ai-personas)](https://github.com/mailbus/awesome-ai-personas/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/mailbus/awesome-ai-personas)](https://github.com/mailbus/awesome-ai-personas/commits/main)
 
 AI Agent正在从"能力模型"走向"行为模型"。本列表收集**人格化AI**项目，包括角色技能(Personas)与智能工具(Tools)。
 
