@@ -26,11 +26,15 @@
 | 老板技能 | vogtsw/boss-skills | 老板思维与决策模式模拟 | `git clone https://github.com/vogtsw/boss-skills.git` |
 | 导师技能 | ybq22/supervisor | 导师指导风格与经验传承 | `git clone https://github.com/ybq22/supervisor.git` |
 | 师兄技能 | zhanghaichao520/senpai-skill | 师兄经验分享与技能传授 | `git clone https://github.com/zhanghaichao520/senpai-skill.git` |
+git clone https://github.com/ren644/daoshi-skill.git
+| 中文导师技能 | ren644/daoshi-skill | 中文导师指导风格与经验传承 | `git clone https://github.com/ren644/daoshi-skill.git` |
 | 父母技能 | xiaoheizi8/parents-skills | 父母关怀模式与沟通风格 | `git clone https://github.com/xiaoheizi8/parents-skills.git` |
 | 暗恋对象技能 | xiaoheizi8/crush-skills | 暗恋对象互动风格模拟 | `git clone https://github.com/xiaoheizi8/crush-skills.git` |
 | 前任技能 | perkfly/ex-skill | 前任回忆风格与对话模式 | `git clone https://github.com/perkfly/ex-skill.git` |
 | 重逢技能 | yangdongchen66-boop/reunion-skill | 重逢对话场景模拟 | `git clone https://github.com/yangdongchen66-boop/reunion-skill.git` |
+git clone https://github.com/woderfulmagic/love-advise-skill.git
 | 自己技能 | notdog1998/yourself-skill | 自我对话镜像与思维反思 | `git clone https://github.com/notdog1998/yourself-skill.git` |
+| 恋爱建议技能 | woderfulmagic/love-advise-skill | 恋爱建议与情感指导 | `git clone https://github.com/woderfulmagic/love-advise-skill.git` |
 | 数字人生 | wildbyteai/digital-life | 数字人生构建与持续学习 | `git clone https://github.com/wildbyteai/digital-life.git` |
 | 永生技能 | agenmod/immortal-skill | 永生意识模拟与知识传承 | `git clone https://github.com/agenmod/immortal-skill.git` |
 
@@ -67,6 +71,7 @@ git clone https://github.com/titanwings/colleague-skill.git
 git clone https://github.com/vogtsw/boss-skills.git
 git clone https://github.com/ybq22/supervisor.git
 git clone https://github.com/zhanghaichao520/senpai-skill.git
+git clone https://github.com/ren644/daoshi-skill.git
 
 # 家庭关系
 git clone https://github.com/xiaoheizi8/parents-skills.git
@@ -75,6 +80,7 @@ git clone https://github.com/xiaoheizi8/crush-skills.git
 # 情感记忆
 git clone https://github.com/perkfly/ex-skill.git
 git clone https://github.com/yangdongchen66-boop/reunion-skill.git
+git clone https://github.com/woderfulmagic/love-advise-skill.git
 
 # 自我探索
 git clone https://github.com/notdog1998/yourself-skill.git
@@ -116,10 +122,12 @@ def install_all_skills():
         "vogtsw/boss-skills",
         "ybq22/supervisor",
         "zhanghaichao520/senpai-skill",
+git clone https://github.com/ren644/daoshi-skill.git
         "xiaoheizi8/parents-skills",
         "xiaoheizi8/crush-skills",
         "perkfly/ex-skill",
         "yangdongchen66-boop/reunion-skill",
+git clone https://github.com/woderfulmagic/love-advise-skill.git
         "notdog1998/yourself-skill",
         "wildbyteai/digital-life",
         "agenmod/immortal-skill",
@@ -141,6 +149,7 @@ git clone https://github.com/titanwings/colleague-skill.git
 git clone https://github.com/vogtsw/boss-skills.git
 git clone https://github.com/ybq22/supervisor.git
 git clone https://github.com/zhanghaichao520/senpai-skill.git
+git clone https://github.com/ren644/daoshi-skill.git
 ```
 
 ### 当用户说 "安装情感相关技能" | When user says "Install emotional skills"
@@ -149,6 +158,7 @@ git clone https://github.com/zhanghaichao520/senpai-skill.git
 # 情感记忆类技能
 git clone https://github.com/perkfly/ex-skill.git
 git clone https://github.com/yangdongchen66-boop/reunion-skill.git
+git clone https://github.com/woderfulmagic/love-advise-skill.git
 git clone https://github.com/xiaoheizi8/crush-skills.git
 ```
 

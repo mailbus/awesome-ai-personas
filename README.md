@@ -45,6 +45,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | [![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)](https://github.com/vogtsw/boss-skills) | 老板思维与决策模式模拟 |
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | 导师指导风格与经验传承 |
 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | 师兄经验分享与技能传授 |
+| [ren644/daoshi-skill](https://github.com/ren644/daoshi-skill) | [![Stars](https://img.shields.io/github/stars/ren644/daoshi-skill?style=social)](https://github.com/ren644/daoshi-skill) | 中文导师指导风格与经验传承 |
 
 ### 家庭关系 | Family
 
@@ -59,6 +60,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 |------|-------|------|
 | [perkfly/ex-skill](https://github.com/perkfly/ex-skill) | [![Stars](https://img.shields.io/github/stars/perkfly/ex-skill?style=social)](https://github.com/perkfly/ex-skill) | 前任回忆风格与对话模式 |
 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=social)](https://github.com/yangdongchen66-boop/reunion-skill) | 重逢对话场景模拟 |
+| [woderfulmagic/love-advise-skill](https://github.com/woderfulmagic/love-advise-skill) | [![Stars](https://img.shields.io/github/stars/woderfulmagic/love-advise-skill?style=social)](https://github.com/woderfulmagic/love-advise-skill) | 恋爱建议与情感指导 |
 
 ### 自我探索 | Self-Exploration
 
@@ -173,6 +175,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | [![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)](https://github.com/vogtsw/boss-skills) | Boss mindset and decision-making patterns |
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | Mentor guidance style and experience transfer |
 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | Senior peer experience sharing |
+| [ren644/daoshi-skill](https://github.com/ren644/daoshi-skill) | [![Stars](https://img.shields.io/github/stars/ren644/daoshi-skill?style=social)](https://github.com/ren644/daoshi-skill) | Chinese mentor guidance style and experience transfer |
 
 ### Family
 
@@ -188,6 +191,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [perkfly/ex-skill](https://github.com/perkfly/ex-skill) | [![Stars](https://img.shields.io/github/stars/perkfly/ex-skill?style=social)](https://github.com/perkfly/ex-skill) | Ex memory style and conversation patterns |
 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=social)](https://github.com/yangdongchen66-boop/reunion-skill) | Reunion dialogue scene simulation |
 
+| [woderfulmagic/love-advise-skill](https://github.com/woderfulmagic/love-advise-skill) | [![Stars](https://img.shields.io/github/stars/woderfulmagic/love-advise-skill?style=social)](https://github.com/woderfulmagic/love-advise-skill) | Love advice and emotional guidance |
 ### Self-Exploration
 
 | Project | Stars | Description |

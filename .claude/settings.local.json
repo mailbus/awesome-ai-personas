@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(gh repo:*)"
+      "Bash(gh repo:*)",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__close_page",
+      "Bash(sed:*)"
     ]
   }
 }
