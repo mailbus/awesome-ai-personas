@@ -1,0 +1,15 @@
+# 操作系统文件 | System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 | Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件 | Temporary Files
+*.tmp
+*.log
