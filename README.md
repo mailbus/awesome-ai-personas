@@ -27,6 +27,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 
 - [👥 人格角色 Personas](#人格角色-personas) - 同事、导师、家人、自我
 - [🛠️ 智能工具 Tools](#智能工具-tools) - 防蒸馏、提效、安全
+- [🤖 Agent 安装指南](#-agent-安装指南-agent-installation-guide) - 给 Claude Code、Codex 等 AI Agent
 - [📚 资源 Resources](#资源-resources) - 文档、教程、社区
 - [🤝 贡献 Contributing](#贡献-contributing)
 
@@ -88,6 +89,31 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 
 ---
 
+## 🤖 Agent 安装指南 | Agent Installation Guide
+
+> **给 AI Agent 的标准化安装文档** | Standardized installation guide for AI Agents
+
+[AGENT_GUIDE.md](AGENT_GUIDE.md) 提供了完整的技能安装说明，专为 Claude Code、Codex、OpenClaw 等 AI Agent 设计。
+
+**快速开始 | Quick Start:**
+
+```bash
+# 安装单个技能
+git clone https://github.com/titanwings/colleague-skill.git
+
+# 批量安装所有人格角色（详见 AGENT_GUIDE.md）
+mkdir ai-personas && cd ai-personas
+# ... 执行批量安装脚本
+```
+
+**支持的 Agent | Supported Agents:**
+- ✅ Claude Code / Claude Agent SDK
+- ✅ OpenAI Codex
+- ✅ OpenClaw
+- ✅ 任何支持 Git 命令的 AI Agent
+
+---
+
 ## 📚 资源 Resources
 
 - [OpenAI Documentation](https://platform.openai.com/docs) - 官方API文档
@@ -129,6 +155,7 @@ AI is becoming more personalized. Whether simulating colleague communication sty
 
 - [👥 Personas](#-personas-1) - Colleagues, mentors, family, self
 - [🛠️ Tools](#️-tools-1) - Anti-distillation, productivity, security
+- [🤖 Agent Installation Guide](#-agent-installation-guide-1) - For Claude Code, Codex, and other AI Agents
 - [📚 Resources](#-resources-1) - Docs, tutorials, community
 - [🤝 Contributing](#-contributing-1)
 
@@ -187,6 +214,31 @@ Practical tools that enhance AI capabilities, including security, productivity, 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [your-tool-repo](https://github.com/your-repo) | | To be added |
+
+---
+
+## 🤖 Agent Installation Guide
+
+> **Standardized installation documentation for AI Agents**
+
+[AGENT_GUIDE.md](AGENT_GUIDE.md) provides complete installation instructions, designed for Claude Code, Codex, OpenClaw, and other AI Agents.
+
+**Quick Start:**
+
+```bash
+# Install a single skill
+git clone https://github.com/titanwings/colleague-skill.git
+
+# Batch install all personas (see AGENT_GUIDE.md for details)
+mkdir ai-personas && cd ai-personas
+# ... execute batch installation script
+```
+
+**Supported Agents:**
+- ✅ Claude Code / Claude Agent SDK
+- ✅ OpenAI Codex
+- ✅ OpenClaw
+- ✅ Any AI Agent with Git support
 
 ---
 
