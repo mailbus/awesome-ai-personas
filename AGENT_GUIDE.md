@@ -31,6 +31,8 @@ git clone https://github.com/ren644/daoshi-skill.git
 | 父母技能 | xiaoheizi8/parents-skills | 父母关怀模式与沟通风格 | `git clone https://github.com/xiaoheizi8/parents-skills.git` |
 | 暗恋对象技能 | xiaoheizi8/crush-skills | 暗恋对象互动风格模拟 | `git clone https://github.com/xiaoheizi8/crush-skills.git` |
 | 前任技能 | perkfly/ex-skill | 前任回忆风格与对话模式 | `git clone https://github.com/perkfly/ex-skill.git` |
+git clone https://github.com/therealXiaomanChu/ex-skill.git
+| 前任技能增强版 | therealXiaomanChu/ex-skill | 支持微信/QQ记录、多模式对话、版本管理 | `git clone https://github.com/therealXiaomanChu/ex-skill.git` |
 | 重逢技能 | yangdongchen66-boop/reunion-skill | 重逢对话场景模拟 | `git clone https://github.com/yangdongchen66-boop/reunion-skill.git` |
 git clone https://github.com/woderfulmagic/love-advise-skill.git
 | 自己技能 | notdog1998/yourself-skill | 自我对话镜像与思维反思 | `git clone https://github.com/notdog1998/yourself-skill.git` |
@@ -79,6 +81,7 @@ git clone https://github.com/xiaoheizi8/crush-skills.git
 
 # 情感记忆
 git clone https://github.com/perkfly/ex-skill.git
+git clone https://github.com/therealXiaomanChu/ex-skill.git
 git clone https://github.com/yangdongchen66-boop/reunion-skill.git
 git clone https://github.com/woderfulmagic/love-advise-skill.git
 
@@ -157,6 +160,7 @@ git clone https://github.com/ren644/daoshi-skill.git
 ```bash
 # 情感记忆类技能
 git clone https://github.com/perkfly/ex-skill.git
+git clone https://github.com/therealXiaomanChu/ex-skill.git
 git clone https://github.com/yangdongchen66-boop/reunion-skill.git
 git clone https://github.com/woderfulmagic/love-advise-skill.git
 git clone https://github.com/xiaoheizi8/crush-skills.git

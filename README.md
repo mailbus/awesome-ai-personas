@@ -59,6 +59,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 | 项目 | Stars | 描述 |
 |------|-------|------|
 | [perkfly/ex-skill](https://github.com/perkfly/ex-skill) | [![Stars](https://img.shields.io/github/stars/perkfly/ex-skill?style=social)](https://github.com/perkfly/ex-skill) | 前任回忆风格与对话模式 |
+| [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | [![Stars](https://img.shields.io/github/stars/therealXiaomanChu/ex-skill?style=social)](https://github.com/therealXiaomanChu/ex-skill) | 前任技能增强版：支持微信/QQ记录、多模式对话、版本管理 |
 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=social)](https://github.com/yangdongchen66-boop/reunion-skill) | 重逢对话场景模拟 |
 | [woderfulmagic/love-advise-skill](https://github.com/woderfulmagic/love-advise-skill) | [![Stars](https://img.shields.io/github/stars/woderfulmagic/love-advise-skill?style=social)](https://github.com/woderfulmagic/love-advise-skill) | 恋爱建议与情感指导 |
 
@@ -189,6 +190,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [perkfly/ex-skill](https://github.com/perkfly/ex-skill) | [![Stars](https://img.shields.io/github/stars/perkfly/ex-skill?style=social)](https://github.com/perkfly/ex-skill) | Ex memory style and conversation patterns |
+| [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | [![Stars](https://img.shields.io/github/stars/therealXiaomanChu/ex-skill?style=social)](https://github.com/therealXiaomanChu/ex-skill) | Enhanced ex-partner skill with WeChat/QQ support, multi-mode conversations, version management |
 | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=social)](https://github.com/yangdongchen66-boop/reunion-skill) | Reunion dialogue scene simulation |
 
 | [woderfulmagic/love-advise-skill](https://github.com/woderfulmagic/love-advise-skill) | [![Stars](https://img.shields.io/github/stars/woderfulmagic/love-advise-skill?style=social)](https://github.com/woderfulmagic/love-advise-skill) | Love advice and emotional guidance |
