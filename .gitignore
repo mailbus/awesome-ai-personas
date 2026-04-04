@@ -13,3 +13,6 @@ desktop.ini
 # 临时文件 | Temporary Files
 *.tmp
 *.log
+
+# 推广文档 | Marketing Docs (本地管理，不提交)
+.self/

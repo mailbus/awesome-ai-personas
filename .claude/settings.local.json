@@ -8,7 +8,9 @@
       "Bash(sed:*)",
       "WebSearch",
       "mcp__chrome-devtools__click",
-      "mcp__chrome-devtools__navigate_page"
+      "mcp__chrome-devtools__navigate_page",
+      "Bash(mkdir -p .self)",
+      "Bash(mv ZHITUU_COMMENT.md REDDIT_POST.md .self/)"
     ]
   }
 }
