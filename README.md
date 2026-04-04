@@ -43,7 +43,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | [![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=social)](https://github.com/titanwings/colleague-skill) | 模拟同事沟通风格与协作模式 |
 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | [![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)](https://github.com/vogtsw/boss-skills) | 老板思维与决策模式模拟 |
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | 导师指导风格与经验传承 |
-| [zhanghaochao520/senpai-skill](https://github.com/zhanghaochao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | 师兄经验分享与技能传授 |
+| [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | 师兄经验分享与技能传授 |
 
 ### 家庭关系 | Family
 
@@ -145,7 +145,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | [![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=social)](https://github.com/titanwings/colleague-skill) | Simulate colleague communication and collaboration styles |
 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | [![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)](https://github.com/vogtsw/boss-skills) | Boss mindset and decision-making patterns |
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | Mentor guidance style and experience transfer |
-| [zhanghaochao520/senpai-skill](https://github.com/zhanghaochao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | Senior peer experience sharing |
+| [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | Senior peer experience sharing |
 
 ### Family
 
