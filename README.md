@@ -26,6 +26,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 ### 目录
 
 - [👥 人格角色 Personas](#人格角色-personas) - 同事、导师、家人、自我
+- [🔮 蒸馏人物 Distilled Personas](#蒸馏人物-distilled-personas) - 基于知名人物的 AI 人格
 - [🛠️ 智能工具 Tools](#智能工具-tools) - 防蒸馏、提效、安全
 - [🤖 Agent 安装指南](#-agent-安装指南-agent-installation-guide) - 给 Claude Code、Codex 等 AI Agent
 - [📚 资源 Resources](#资源-resources) - 文档、教程、社区
@@ -46,6 +47,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | 导师指导风格与经验传承 |
 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | 师兄经验分享与技能传授 |
 | [ren644/daoshi-skill](https://github.com/ren644/daoshi-skill) | [![Stars](https://img.shields.io/github/stars/ren644/daoshi-skill?style=social)](https://github.com/ren644/daoshi-skill) | 中文导师指导风格与经验传承 |
+| [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=social)](https://github.com/hotcoffeeshake/tong-jincheng-skill) | 童进成成长指导与思维训练 |
 
 ### 家庭关系 | Family
 
@@ -71,6 +73,27 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) | [![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)](https://github.com/wildbyteai/digital-life) | 数字人生构建与持续学习 |
 | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) | [![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=social)](https://github.com/agenmod/immortal-skill) | 永生意识模拟与知识传承 |
 
+### 蒸馏人物 | Distilled Personas
+
+基于知名人物的思维模式、认知风格和哲学构建的 AI 人格技能。
+
+| 项目 | Stars | 描述 |
+|------|-------|------|
+| [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/paul-graham-skill?style=social)](https://github.com/alchaincyf/paul-graham-skill) | 投资人思维模式与创业智慧 |
+| [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/zhang-yiming-skill?style=social)](https://github.com/alchaincyf/zhang-yiming-skill) | 张一鸣思维模式与认知风格 |
+| [alchaincyf/karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/karpathy-skill?style=social)](https://github.com/alchaincyf/karpathy-skill) | Andrej Karpathy 的深度学习与AI研究思维 |
+| [alchaincyf/ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/ilya-sutskever-skill?style=social)](https://github.com/alchaincyf/ilya-sutskever-skill) | Ilya Sutskever 的架构设计与研究思维 |
+| [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/mrbeast-skill?style=social)](https://github.com/alchaincyf/mrbeast-skill) | MrBeast 的营销思维与商业智慧 |
+| [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/trump-skill?style=social)](https://github.com/alchaincyf/trump-skill) | Trump 的领导风格与决策思维 |
+| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/steve-jobs-skill?style=social)](https://github.com/alchaincyf/steve-jobs-skill) | 乔布斯的产品思维与创新哲学 |
+| [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/elon-musk-skill?style=social)](https://github.com/alchaincyf/elon-musk-skill) | 马斯克的工程思维与商业愿景 |
+| [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/munger-skill?style=social)](https://github.com/alchaincyf/munger-skill) | Charlie Munger 的投资思维与价值投资哲学 |
+| [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/feynman-skill?style=social)](https://github.com/alchaincyf/feynman-skill) | 费曼的学习方法与科学思维 |
+| [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/naval-skill?style=social)](https://github.com/alchaincyf/naval-skill) | Naval Ravikant 的财富思维与人生哲学 |
+| [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/taleb-skill?style=social)](https://github.com/alchaincyf/taleb-skill) | Nassim Taleb 的风险思维与反脆弱理论 |
+| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=social)](https://github.com/alchaincyf/zhangxuefeng-skill) | 张学锋的批判性思维与认知科学 |
+| [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/x-mentor-skill?style=social)](https://github.com/alchaincyf/x-mentor-skill) | 高级导师指导风格与深度思维训练 |
+
 ---
 
 ## 🛠️ 智能工具 Tools
@@ -81,7 +104,8 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 
 | 项目 | Stars | 描述 |
 |------|-------|------|
-| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | [![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social)](https://github.com/leilei926524-tech/anti-distill) | 防止AI模型被蒸馏的工具 |
+| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | [![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=socialser)](https://github.com/leilei926524-tech/anti-distill) | 防止AI模型被蒸馏的工具 |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)](https://github.com/alchaincyf/nuwa-skill) | 女娲造人 - 神格蒸馏与人物塑造 |
 | [your-security-tool](https://github.com/your-repo) | | 待添加 |
 
 ### 效率工具 | Productivity
@@ -157,6 +181,7 @@ AI is becoming more personalized. Whether simulating colleague communication sty
 ### Table of Contents
 
 - [👥 Personas](#-personas-1) - Colleagues, mentors, family, self
+- [🔮 Distilled Personas](#-distilled-personas-1) - AI personas based on well-known figures
 - [🛠️ Tools](#️-tools-1) - Anti-distillation, productivity, security
 - [🤖 Agent Installation Guide](#-agent-installation-guide-1) - For Claude Code, Codex, and other AI Agents
 - [📚 Resources](#-resources-1) - Docs, tutorials, community
@@ -177,6 +202,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | Mentor guidance style and experience transfer |
 | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | Senior peer experience sharing |
 | [ren644/daoshi-skill](https://github.com/ren644/daoshi-skill) | [![Stars](https://img.shields.io/github/stars/ren644/daoshi-skill?style=social)](https://github.com/ren644/daoshi-skill) | Chinese mentor guidance style and experience transfer |
+| [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=social)](https://github.com/hotcoffeeshake/tong-jincheng-skill) | Tong Jincheng growth guidance and thinking training |
 
 ### Family
 
@@ -202,6 +228,27 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) | [![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=social)](https://github.com/wildbyteai/digital-life) | Digital life construction and continuous learning |
 | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) | [![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=social)](https://github.com/agenmod/immortal-skill) | Immortal consciousness simulation and knowledge transfer |
 
+### Distilled Personas
+
+AI persona skills built on thinking patterns, cognitive styles, and philosophies of well-known figures.
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/paul-graham-skill?style=social)](https://github.com/alchaincyf/paul-graham-skill) | Paul Graham investor mindset and startup wisdom |
+| [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/zhang-yiming-skill?style=social)](https://github.com/alchaincyf/zhang-yiming-skill) | Zhang Yiming thinking patterns and cognitive style |
+| [alchaincyf/karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/karpathy-skill?style=social)](https://github.com/alchaincyf/karpathy-skill) | Andrej Karpathy deep learning and AI research thinking |
+| [alchaincyf/ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/ilya-sutskever-skill?style=social)](https://github.com/alchaincyf/ilya-sutskever-skill) | Ilya Sutskever architecture design and research thinking |
+| [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/mrbeast-skill?style=social)](https://github.com/alchaincyf/mrbeast-skill) | MrBeast marketing thinking and business wisdom |
+| [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/trump-skill?style=social)](https://github.com/alchaincyf/trump-skill) | Trump leadership style and decision-making thinking |
+| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyser/steve-jobs-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/steve-jobs-skill?style=social)](https://github.com/alchaincyf/steve-jobs-skill) | Steve Jobs product thinking and innovation philosophy |
+| [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/elon-musk-skill?style=social)](https://github.com/alchaincyf/elon-musk-skill) | Elon Musk engineering thinking and business vision |
+| [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/munger-skill?style=social)](https://github.com/alchaincyf/munger-skill) | Charlie Munger investment thinking and value investing philosophy |
+| [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/feynman-skill?style=social)](https://github.com/alchaincyf/feynman-skill) | Feynman learning methods and scientific thinking |
+| [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/naval-skill?style=social)](https://github.com/alchaincyf/naval-skill) | Naval Ravikant wealth thinking and life philosophy |
+| [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/taleb-skill?style=social)](https://github.com/alchaincyf/taleb-skill) | Nassim Taleb risk thinking and anti-fragility theory |
+| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=social)](https://github.com/alchaincyf/zhangxuefeng-skill) | Zhang Xuefeng critical thinking and cognitive science |
+| [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/x-mentor-skill?style=social)](https://github.com/alchaincyf/x-mentor-skill) | Advanced mentor guidance style and deep thinking training |
+
 ---
 
 ## 🛠️ Tools
@@ -213,6 +260,7 @@ Practical tools that enhance AI capabilities, including security, productivity, 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | [![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social)](https://github.com/leilei926524-tech/anti-distill) | Tool to prevent AI model distillation |
+| [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)](https://github.com/alchaincyf/nuwa-skill) | Nuwa creates humans - persona distillation and character shaping |
 | [your-security-tool](https://github.com/your-repo) | | To be added |
 
 ### Productivity
