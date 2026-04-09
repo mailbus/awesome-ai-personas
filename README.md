@@ -104,7 +104,7 @@ AI正在变得更具人格化。无论是模拟同事沟通风格、导师指导
 
 | 项目 | Stars | 描述 |
 |------|-------|------|
-| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | [![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=socialser)](https://github.com/leilei926524-tech/anti-distill) | 防止AI模型被蒸馏的工具 |
+| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) | [![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=social)](https://github.com/leilei926524-tech/anti-distill) | 防止AI模型被蒸馏的工具 |
 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=social)](https://github.com/alchaincyf/nuwa-skill) | 女娲造人 - 神格蒸馏与人物塑造 |
 | [your-security-tool](https://github.com/your-repo) | | 待添加 |
 
@@ -200,7 +200,7 @@ Encapsulating a person's knowledge, habits, and interaction patterns into reusab
 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | [![Stars](https://img.shields.io/github/stars/titanwings/colleague-skill?style=social)](https://github.com/titanwings/colleague-skill) | Simulate colleague communication and collaboration styles |
 | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) | [![Stars](https://img.shields.io/github/stars/vogtsw/boss-skills?style=social)](https://github.com/vogtsw/boss-skills) | Boss mindset and decision-making patterns |
 | [ybq22/supervisor](https://github.com/ybq22/supervisor) | [![Stars](https://img.shields.io/github/stars/ybq22/supervisor?style=social)](https://github.com/ybq22/supervisor) | Mentor guidance style and experience transfer |
-| [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaochao520/senpai-skill?style=social)](https://github.com/zhanghaochao520/senpai-skill) | Senior peer experience sharing |
+| [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) | [![Stars](https://img.shields.io/github/stars/zhanghaichao520/senpai-skill?style=social)](https://github.com/zhanghaichao520/senpai-skill) | Senior peer experience sharing |
 | [ren644/daoshi-skill](https://github.com/ren644/daoshi-skill) | [![Stars](https://img.shields.io/github/stars/ren644/daoshi-skill?style=social)](https://github.com/ren644/daoshi-skill) | Chinese mentor guidance style and experience transfer |
 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=social)](https://github.com/hotcoffeeshake/tong-jincheng-skill) | Tong Jincheng growth guidance and thinking training |
 
@@ -240,7 +240,7 @@ AI persona skills built on thinking patterns, cognitive styles, and philosophies
 | [alchaincyf/ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/ilya-sutskever-skill?style=social)](https://github.com/alchaincyf/ilya-sutskever-skill) | Ilya Sutskever architecture design and research thinking |
 | [alchaincyf/mrbeast-skill](https://github.com/alchaincyf/mrbeast-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/mrbeast-skill?style=social)](https://github.com/alchaincyf/mrbeast-skill) | MrBeast marketing thinking and business wisdom |
 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/trump-skill?style=social)](https://github.com/alchaincyf/trump-skill) | Trump leadership style and decision-making thinking |
-| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyser/steve-jobs-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/steve-jobs-skill?style=social)](https://github.com/alchaincyf/steve-jobs-skill) | Steve Jobs product thinking and innovation philosophy |
+| [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/steve-jobs-skill?style=social)](https://github.com/alchaincyf/steve-jobs-skill) | Steve Jobs product thinking and innovation philosophy |
 | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/elon-musk-skill?style=social)](https://github.com/alchaincyf/elon-musk-skill) | Elon Musk engineering thinking and business vision |
 | [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/munger-skill?style=social)](https://github.com/alchaincyf/munger-skill) | Charlie Munger investment thinking and value investing philosophy |
 | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) | [![Stars](https://img.shields.io/github/stars/alchaincyf/feynman-skill?style=social)](https://github.com/alchaincyf/feynman-skill) | Feynman learning methods and scientific thinking |
